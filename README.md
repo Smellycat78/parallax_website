@@ -12,7 +12,6 @@ Link - https://alik-kumar-ghosh.github.io/parallax_website/
 
 ### Technologies Used
 ` <HTML> `<br>
-`<JS> `<br>
 ` <CSS> `
 
 ---
